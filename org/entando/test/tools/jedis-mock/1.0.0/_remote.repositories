@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:03:02 CEST 2022
+jedis-mock-1.0.0-javadoc.jar>=
+jedis-mock-1.0.0.jar>=
+jedis-mock-1.0.0-sources.jar>=
+jedis-mock-1.0.0.pom>=
